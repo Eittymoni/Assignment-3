@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 3</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<style>
+    .manrope-font {
+  font-family: "Manrope", sans-serif;
+}
+</style>
+
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            clifford: '#da373d',
+            'gray-6':'#212121',
+            'gray-4':'#737373',
+            'gray-5':'#494949',
+            'gray-7':'#1C1C1C',
+            'gray-1':'#E9E9E9',
+            'green': '#ABEF5F'
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="manrope-font">
+    <!-- header -->
+    <header class=" container mx-auto">
+        <div class="navbar">
+            <div class="navbar-start">
+              <a class=" flex justify-betwwen gap-2 ">
+                 <div class=" h-8 w-8 rounded-[50%] bg-green text-center flex items-center justify-center -rotate-45"> <i class="fa-solid fa-arrow-right"></i></div>
+               <div class=" text-gray-6 font-extrabold text text-3xl"> Rinterio</div>
+             </a>
+            </div>
+            <div class="navbar-center hidden lg:flex">
+              <ul class="menu menu-horizontal px-1">
+                <li class=" text-gray-5 font-extrabold text-base"><a>Home</a></li>
+                <li class="text-gray-4 text-base"><a>Services</a></li>
+                <li class="text-gray-4 text-base"><a>Portfolio</a></li>
+                <li class="text-gray-4 text-base"><a>Blogs</a></li>
+                <li class="text-gray-4 text-base"><a>Contact Us</a></li>
+
+              </ul>
+            </div>
+
+            
+            <div class="navbar-end gap-2">
+        
+  <div class="lg:flex h-12 w-12 rounded-[50%] bg-white border-gray-1 border-[1px] text-center items-center justify-center text-gray-4 hidden sm:hidden lg:flex">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </div>
+  <div class="lg:flex h-12 w-12 rounded-[50%] bg-white border-gray-1 border-[1px] text-center items-center justify-center text-gray-4 hidden sm:hidden lg:flex">
+    <i class="fa-solid fa-cart-shopping"></i>
+  </div>
+
+
+  <div class="btn bg-green flex justify-between items-center rounded-[32px] lg:flex hidden sm:hidden">
+    <h3 class="text-gray-7 font-extrabold text-[18px]">Book Consult</h3>
+    <div class="h-8 w-8 rounded-[50%] bg-gray-6 text-center text-white flex items-center justify-center -rotate-45">
+      <i class="fa-solid fa-arrow-right"></i>
+    </div>
+  </div>
+
+  
+  <div class="lg:hidden sm:flex h-12 w-12 rounded-[50%] bg-white border-gray-1 border-[1px] flex items-center justify-center text-gray-4">
+    <i class="fa-solid fa-bars"></i>
+</div>
+</div>
+          </div>
+    </header>
+    <!-- main section -->
+</body>
+</html>
