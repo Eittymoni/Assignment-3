@@ -29,6 +29,8 @@
             'gray-7':'#1C1C1C',
             'gray-1':'#E9E9E9',
             'green': '#ABEF5F',
+            'bg-color': '#F4F4F4',
+
             'green-1': 'rgba(171, 239, 95, 0.5);',
           }
         }
@@ -83,9 +85,9 @@
           </div>
     </header>
     <!-- main section -->
-     <main class="container mx-auto ">
+     <main >
 <!-- banner section -->
-<section>
+<section class="container mx-auto ">
     <div class="hero  min-h-screen">
         <div class="hero-content text-center">
           <div class="max-w-full">
@@ -102,7 +104,49 @@
       </div>
 </section>
 
+<!-- about us section -->
+ <section class=" bg-bg-color ">
+   <div class="container mx-auto ">
+    
+    <div class="hero min-h-screen ">
+      <div class="hero-content flex-col-reverse  lg:flex-row-reverse">
+        <img
+          src="assets/about.png"
+          class="w-[100%]" />
+        <div>
 
+          <img src="assets/Vector.png" alt="">
+          <button class="btn rounded-[24px] bg-white text-base"><i class="fa-solid fa-arrow-right"></i> About Us</button>
+          <h1 class=" py-6  text-gray-6 lg:text-4xl text-3xl font-extrabold">We design thoughtful, liveable spaces</h1>
+          <p class="py-6  text-gray-5 text-base">
+            The barn house captivates with its blend of rustic charm and 
+modern sophistication, featuring weathered wood, sleek metal accents.
+          </p>
+          <div class=" bg-white px-5 py-2 rounded-[16px] flex justify-between items-center gap-4">
+            <div>
+              <img src="assets/commercial.png" alt="" class="w-[100%]">
+            </div>
+            <div> 
+              <h3 class=" text-3xl text-gray-5 font-extrabold">Commercial</h3>
+              <p class=" py-3 text-base text-gray-4">The barn house captivates with its blend of rustic charm and modern.</p>
+            </div>
+          </div>
+          <div class=" bg-white px-5 py-2 rounded-[16px] flex justify-between items-center gap-4 mt-5">
+            <div>
+              <img src="assets/residential.png" alt="" class="w-[100%]">
+            </div>
+            <div> 
+              <h3 class=" text-3xl text-gray-5 font-extrabold">Residential</h3>
+              <p class=" py-3 text-base text-gray-4">The barn house captivates with its blend of rustic charm and modern.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+   </div>   
+ </section>
 
      </main>
 </body>
