@@ -1,0 +1,161 @@
+<!-- carosol -->
+<!-- <div class="carousel h-[500px]  w-full mt-6">
+  <div id="item1" class="carousel-item   ">
+    <div class="card bg-white  w-96 shadow-xl mr-2 ml-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“Would I recommend this company to my friends? Absolutely! I will be recommending it to everyone who wants to find the best house that would suit all their needs! They know everything about real estate and great service!</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Jared Moore</h2>
+        <h2 class=" text-gray-6 text-base ">27 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic1.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div>
+    <!-- <div class="card bg-white lg:w-[32%] sm:hidden  shadow-xl mr-2 ml-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“It’s always difficult to pick the ideal apartment in a big town. However, with your help, the process of getting one was fast and painless for me. Thank you so much for making my life easier! I absolutely love my new home.</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Sandra Jones</h2>
+        <h2 class=" text-gray-6 text-base ">38 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic2.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div>
+    <div class="card bg-white lg:w-[32%] sm:hidden shadow-xl ml-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“I was impressed by your professional agents! I have dealt with many agencies, but yours is the best. Thank you for the fast service and individual approach. I appreciate your help with finding perfect offices for my business!</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Jessica Lee</h2>
+        <h2 class=" text-gray-6 text-base ">35 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic3.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div> -->
+   
+  </div>
+  <div id="item2" class="carousel-item w-full">
+    <div class="card bg-white lg:w-[33%] shadow-xl ml-2 mr-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“Would I recommend this company to my friends? Absolutely! I will be recommending it to everyone who wants to find the best house that would suit all their needs! They know everything about real estate and great service!</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">July jean</h2>
+        <h2 class=" text-gray-6 text-base ">25 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[80%] "
+  src="./assets/pic4.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div>
+    <!-- <div class="card bg-white lg:w-[32%] shadow-xl mr-2 mb-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“It’s always difficult to pick the ideal apartment in a big town. However, with your help, the process of getting one was fast and painless for me. Thank you so much for making my life easier! I absolutely love my new home.</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Harry mons</h2>
+        <h2 class=" text-gray-6 text-base ">38 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic5.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div>
+    <div class="card bg-white lg:w-[32%] shadow-xl ml-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“I was impressed by your professional agents! I have dealt with many agencies, but yours is the best. Thank you for the fast service and individual approach. I appreciate your help with finding perfect offices for my business!</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Jessica Lee</h2>
+        <h2 class=" text-gray-6 text-base ">35 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic3.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div> -->
+  </div>
+  <div id="item3" class="carousel-item w-full">
+    <div class="card bg-white lg:w-[32%] shadow-xl  ml-2 mr-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“Would I recommend this company to my friends? Absolutely! I will be recommending it to everyone who wants to find the best house that would suit all their needs! They know everything about real estate and great service!</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Jared Moore</h2>
+        <h2 class=" text-gray-6 text-base ">27 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic6.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div>
+    <!-- <div class="card bg-white lg:w-[32%] shadow-xl ml-2 mr-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“It’s always difficult to pick the ideal apartment in a big town. However, with your help, the process of getting one was fast and painless for me. Thank you so much for making my life easier! I absolutely love my new home.</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Sandra Jones</h2>
+        <h2 class=" text-gray-6 text-base ">38 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic7.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div>
+    <div class="card bg-white lg:w-[32%] shadow-xl ml-2">
+     
+      <div class="card-body items-center text-center">
+       
+        <p class=" text-gray-5  pt-20 text-base">“I was impressed by your professional agents! I have dealt with many agencies, but yours is the best. Thank you for the fast service and individual approach. I appreciate your help with finding perfect offices for my business!</p>
+        <h2 class=" text-gray-6 text-2xl font-bold">Jessica Lee</h2>
+        <h2 class=" text-gray-6 text-base ">35 years</h2>
+        <div class="px-10 pt-5">
+          <img
+  class="mask mask-circle h-[50%] "
+  src="./assets/pic8.jpg"  />
+        
+        </div>
+        
+      </div>
+    </div> -->
+  </div>
+ 
+</div> -->
+<!-- <div class="flex w-full justify-center gap-2 py-2">
+  <a href="#item1" class="btn bg-green btn-xs">1</a>
+  <a href="#item2" class="btn bg-green  btn-xs">2</a>
+  <a href="#item3" class="btn bg-green  btn-xs">3</a>
+  
+</div> -->
